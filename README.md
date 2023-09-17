@@ -1,5 +1,4 @@
 Я Антон и я молодец!  
-[Alt text](img/0cc8a44f14e7e4a6248aacbfe6a02488.jpg)  
+ ![Alt text](img/0cc8a44f14e7e4a6248aacbfe6a02488.jpg)
 мои контакты:
 тел. 322 2233
-
